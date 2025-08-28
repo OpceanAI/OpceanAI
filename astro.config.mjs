@@ -3,6 +3,9 @@ import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
   integrations: [tailwind()],
+  devToolbar: {
+    enabled: false
+  },
   server: {
     host: true,
     port: 5000
