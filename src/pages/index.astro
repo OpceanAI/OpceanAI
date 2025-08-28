@@ -1,0 +1,33 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Hero from '../components/Hero.astro';
+import About from '../components/About.astro';
+import Bots from '../components/Bots.astro';
+import Skills from '../components/Skills.astro';
+import Contact from '../components/Contact.astro';
+---
+
+<Layout title="OpceanAI - Developer Portfolio">
+  <Header />
+  <main>
+    <Hero />
+    <About />
+    <Bots />
+    <Skills />
+    <Contact />
+  </main>
+  
+  <footer class="py-8 px-6 border-t border-gray-800">
+    <div class="container mx-auto text-center">
+      <p class="text-gray-400">
+        © 2025 OpceanAI. Construyendo el futuro del desarrollo con bots open source.
+      </p>
+    </div>
+  </footer>
+</Layout>
+
+<style>
+  /* Import global styles */
+  @import '../styles/global.css';
+</style>
