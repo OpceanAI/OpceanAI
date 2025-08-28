@@ -4,14 +4,7 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   integrations: [tailwind()],
   server: {
-    host: '0.0.0.0',
+    host: true,
     port: 5000
-  },
-  vite: {
-    server: {
-      host: '0.0.0.0',
-      port: 5000,
-      allowedHosts: true
-    }
   }
 });
