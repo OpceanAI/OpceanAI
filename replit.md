@@ -2,7 +2,15 @@
 
 ## Overview
 
-This is an Astro-based static site generator project with Tailwind CSS for styling. The project follows modern web development practices with TypeScript support and appears to be set up for building a portfolio or personal website. The architecture emphasizes performance, modern styling capabilities, and developer experience with static site generation.
+This is an Astro-based static site generator project for the OpceanAI portfolio website with Tailwind CSS for styling. The project follows modern web development practices with TypeScript support and is configured to run in the Replit environment. The architecture emphasizes performance, modern styling capabilities, and developer experience with static site generation.
+
+## Recent Changes
+
+- **Project Import (September 19, 2025)**: Successfully imported from GitHub and configured for Replit environment
+- **Configuration Updates**: Updated package.json with proper Astro scripts and astro.config.mjs with Replit-compatible settings
+- **Dependencies**: Installed all required packages including Astro 5.13.4 and Tailwind CSS 3.4.17
+- **Deployment Configuration**: Set up autoscale deployment with build and preview commands
+- **Workflow Setup**: Configured Frontend Server workflow on port 5000
 
 ## User Preferences
 
