@@ -12,10 +12,10 @@ export default defineConfig({
   },
   vite: {
     server: {
-      allowedHosts: ["4aed061d-8fe1-44d1-9c9e-ad3449ef80a9-00-29qcqo35qqaj6.worf.replit.dev", "localhost", "127.0.0.1"]
+      allowedHosts: ["4aed061d-8fe1-44d1-9c9e-ad3449ef80a9-00-29qcqo35qqaj6.worf.replit.dev", "360e8c37-cc7e-4fc6-8544-cb3aba7dec8c-00-8qtem5e4b92k.kirk.replit.dev", "localhost", "127.0.0.1"]
     },
     preview: {
-      allowedHosts: ["4aed061d-8fe1-44d1-9c9e-ad3449ef80a9-00-29qcqo35qqaj6.worf.replit.dev", "localhost", "127.0.0.1"]
+      allowedHosts: ["4aed061d-8fe1-44d1-9c9e-ad3449ef80a9-00-29qcqo35qqaj6.worf.replit.dev", "360e8c37-cc7e-4fc6-8544-cb3aba7dec8c-00-8qtem5e4b92k.kirk.replit.dev", "localhost", "127.0.0.1"]
     }
   }
 });
