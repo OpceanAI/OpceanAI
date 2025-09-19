@@ -12,7 +12,10 @@ export default defineConfig({
   },
   vite: {
     server: {
-      allowedHosts: true
+      allowedHosts: ["4aed061d-8fe1-44d1-9c9e-ad3449ef80a9-00-29qcqo35qqaj6.worf.replit.dev", "localhost", "127.0.0.1"]
+    },
+    preview: {
+      allowedHosts: ["4aed061d-8fe1-44d1-9c9e-ad3449ef80a9-00-29qcqo35qqaj6.worf.replit.dev", "localhost", "127.0.0.1"]
     }
   }
 });
