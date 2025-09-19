@@ -63,7 +63,7 @@ Holiiis soy silver, un estudiante y un aficionado del mundo del hacking, siempre
 ### ✨ Lumina
 > *Una dulce compañera llena de luz y magia ～(＾◡＾)～*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/OpceanAI/Lumina-Open-source-)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/aguitauwu/Lumina)
 
 ### 🌟 Alya
 > *Bot en desarrollo con muchas sorpresas kawaii esperándote ✨*
