@@ -1,18 +1,43 @@
 {
-  "name": "workspace",
+  "name": "opceanai-portfolio",
   "version": "1.0.0",
+  "description": "Portfolio oficial de OpceanAI - Equipo de desarrollo de bots Discord open source",
   "main": "index.js",
   "scripts": {
     "dev": "astro dev --host --port 5000 --allowed-hosts true",
     "start": "astro dev --host --port 5000 --allowed-hosts true",
     "build": "astro build",
     "preview": "astro preview --host --port 5000 --allowed-hosts true",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "rm -rf dist .astro"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpceanAI/OpceanAI.git"
+  },
+  "keywords": [
+    "portfolio",
+    "astro",
+    "discord-bots",
+    "tailwindcss",
+    "typescript",
+    "glassmorphism",
+    "open-source"
+  ],
+  "authors": [
+    {
+      "name": "Aguita",
+      "url": "https://github.com/aguitauwu"
+    },
+    {
+      "name": "Silver",
+      "url": "https://github.com/s7lver2"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpceanAI/OpceanAI/issues"
+  },
+  "homepage": "https://github.com/OpceanAI/OpceanAI#readme",
   "dependencies": {
     "@astrojs/tailwind": "^6.0.2",
     "astro": "^5.13.4",
