@@ -66,6 +66,33 @@ Holiiis soy silver, un estudiante y un aficionado del mundo del hacking, siempre
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/OpceanAI/Lumina-Open-source-)
 [![Invite Bot](https://img.shields.io/badge/Invite-Bot-5865F2?style=flat&logo=discord&logoColor=white)](#)
 
+### 🌟 Alya
+> *Bot en desarrollo con muchas sorpresas kawaii esperándote ✨*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/OpceanAI/Alya)
+[![Status](https://img.shields.io/badge/Status-En_Desarrollo-yellow?style=flat)](https://github.com/OpceanAI/Alya)
+
+### 🐱 Katu
+> *Bot para contar mensajes con IA integrada, hecho con cariño >.<*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/aguitauwu/Katu-bot)
+[![Feature](https://img.shields.io/badge/Feature-IA_Integrada-brightgreen?style=flat)](https://github.com/aguitauwu/Katu-bot)
+
+## 🛠️ Herramientas y Proyectos
+
+### 🐍 Opcean-CLI
+> *Herramienta desarrollada en Python para instalación de bots*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/OpceanAI/Opcean-CLI)
+[![Python](https://img.shields.io/badge/Python-Compatible-blue?style=flat&logo=python)](https://github.com/OpceanAI/Opcean-CLI)
+[![Linux](https://img.shields.io/badge/Linux-Compatible-green?style=flat&logo=linux)](https://github.com/OpceanAI/Opcean-CLI)
+
+**Características:**
+- ✨ Instalación automática de dependencias
+- 🔧 Configuración fácil y rápida
+- 🐧 Optimizado para sistemas Linux
+- 📦 Compatible con todos nuestros bots
+
 ## 🚀 Instalación y Uso
 
 ### Prerrequisitos
